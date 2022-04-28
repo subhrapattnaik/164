@@ -1,6 +1,7 @@
 # 164
 
 
+
 A-Frame NAVIGATION MESHES
 -----------------------------
 
@@ -123,3 +124,4 @@ https://cdn.jsdelivr.net/gh/donmccur dy/aframe-extras@v6.1.1/dist/afram e-extras
   
   ---------------------------------------
 
+https://www.youtube.com/watch?v=bkXLzu8VmDA
