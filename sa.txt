@@ -1,0 +1,33 @@
+create the navmesh of our game scene, the position of each object has to be fixed.
+But in the previous class we had random positions of the boxes.
+First we need to fix the positions of these.
+
+open gameObjects.js file.
+We have two arrays px and pz to store x and z positions.
+Guide the student to update the variables values using array index in the “boxes” component.
+
+
+Now once the positions are fixed, let’s create the navmesh of the environment.
+comment on the camera entity.
+
+
+add the “inspector-plugin-recast” component and open Visual Inspector tool.
+
+
+build the navmesh and to export the navmesh.
+Guide the student to add it to the working folder and view the model in the gLTF viewer.
+
+
+
+add it into <a-assets> and use the id to add it using “gltf-model”.
+
+
+
+attach the nav-mesh component.
+Guide the student to add the “movement-controls” and set the position and test the output.
+
+adjust the dimensions of the boxes to avoid the gun model to enter into the box.
+
+
+ give the id movement-controls entity and use that to adjust the bullet shooting position in the shoot.js file.
+check the last part
