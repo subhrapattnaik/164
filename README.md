@@ -23,7 +23,7 @@ We were able to cross through objects in the scene. Also every time we were load
 In today's class we will be learning how to create a navigation mesh model that will help us to walk around the scene without passing through the objects.
 ******************************************************************
 Activity1
-[Teacher Activity 1]
+[
 Here I have a very basic scene with few boxes lying around forming a very basic maze like structure.
 Let’s see the arrangement of boxes in the A-Frame Visual Inspector tool.
 We can use <Ctrl+Alt+i> keys together to open the Visual Inspector tool.
