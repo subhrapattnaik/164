@@ -1,6 +1,13 @@
 # 164
 
 
+ctrl+alt+i
+
+to open visual inspector
+
+alt(option )in mac book
+------------------------------
+
 A-Frame NAVIGATION MESHES
 -----------------------------
 
